@@ -1,4 +1,4 @@
-CLUMSY_ICON ICON "clumsy-icon.ico"  /* the first icon will also defines the executable icon in Explorer */
+CLUMSY_ICON ICON "app.ico"  /* the first icon will also defines the executable icon in Explorer */
 
 /****************************************************/
 /* Used by IupFileDlg when SHOWPREVIEW=Yes */

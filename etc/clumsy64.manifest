@@ -4,10 +4,10 @@
 <assemblyIdentity
     version="0.3.0.0"
     processorArchitecture="amd64"
-    name="clumsy"
+    name="method"
     type="win32"
 />
-<description>clumsy</description>
+<description>method</description>
 <dependency>
     <dependentAssembly>
         <assemblyIdentity
